@@ -6,7 +6,7 @@ The Stats Yorker uploader is a private tool operated by, and only for, the owner
 (Instagram @statsyorker and the Stats Yorker YouTube channel). It is not offered, sold or licensed to anyone else,
 and no one else may sign in to it.
 
-The tool uses the YouTube API Services and the Instagram Platform. Its use is subject to the
+**This tool uses YouTube API Services.** By using it, you agree to be bound by the
 [YouTube Terms of Service](https://www.youtube.com/t/terms), the
 [Google Privacy Policy](https://policies.google.com/privacy) and Meta's Platform Terms.
 
